@@ -21,3 +21,13 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.header-nav-link:hover,
+.header-nav-link:focus {
+  color: #404bbf;
+}
+
+.address-nav-link:hover,
+.address-nav-link:focus {
+  color: #404bbf;
+}

@@ -17,4 +17,11 @@
 
   color: #fff;
   background-color: #4d5ae5;
+
+  cursor: pointer;
+}
+
+.section-hero-button:hover,
+.section-hero-button:focus {
+  background-color: #404bbf;
 }
